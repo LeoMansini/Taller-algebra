@@ -2,9 +2,9 @@
 
 ## Integrantes:
 
-    - Leo Mansini
-    - Aldana Ayelén Mercado
-    - Sebastián Puglisi
+- Leo Mansini
+- Aldana Ayelén Mercado
+- Sebastián Puglisi
 
 El trabajo consistió en implementar funciones sobre el tipo abstracto `Tablero`, una matriz bidimensional con números en cada posición.
 
